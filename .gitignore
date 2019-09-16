@@ -85,6 +85,7 @@ target/
 __pycache__/
 local_settings.py
 eteaches/eteaches/local_settings.py
+eteaches/tasks/migrations/
 
 .env
 db.sqlite3
